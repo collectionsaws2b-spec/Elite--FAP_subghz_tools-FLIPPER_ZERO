@@ -1,0 +1,8 @@
+version = 2.0.0
+name = RocketGod Sub-GHz Toolkit
+description = Advanced interactive Sub-GHz toolkit for Flipper Zero. Categories, search, instant script execution—no restrictions!
+author = RocketGod
+license = MIT
+icon = icon.png
+entry = rocketgod_subghz_toolkit.fap
+category = Sub-GHz
